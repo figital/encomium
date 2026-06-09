@@ -1,0 +1,39 @@
+C:\Users\sfitchet>ollama run mistral "do you know what the encomium of helen is?"
+
+Yes, I can help with that! The Encomium of Helen is a poem written by the ancient Greek poet Quintus Smyrnaeus.
+It's an epic poem in dactylic hexameter about the Trojan War and the legendary beauty of Helen of Troy. The work
+provides a defense of Helen, arguing that she was abducted by Paris against her will.
+
+The Encomium of Helen is part of a larger work known as the Posthomerica, which continues the story of the Iliad
+after the death of Achilles. In the poem, Helen's beauty and virtues are celebrated, and she is portrayed as a
+tragic figure caught in the midst of war and deception.
+
+The Encomium of Helen showcases Quintus Smyrnaeus' skill in using dramatic language to create an engaging
+narrative, making it one of the most popular works of ancient Greek literature still read today.
+
+
+C:\Users\sfitchet>ollama run mistral "who wrote the encomium of helen?"
+
+The Encomium of Helen, a poem about Helen of Troy, was written by the ancient Greek poet Mimnermus. Mimnermus is
+one of the nine lyric poets from archaic Greece whose work was collected in the Hellenistic period by Alexandrian
+scholars. His exact birth and death dates are not known, but it's believed that he lived around the 7th century
+BC. The Encomium of Helen is considered one of the earliest surviving examples of Greek literature.
+
+
+C:\Users\sfitchet>ollama run mistral "what is the trick in the encomium of helen?"
+
+The Encomium on Helen, written by Quintus Smyrnaeus, is an epic poem that presents a mythological retelling of
+the Trojan War from the perspective of the Greeks. The "trick" or central theme of the Encomium revolves around
+the portrayal of Helen as an innocent victim, rather than the cause of the war.
+
+The poem depicts Helen as the most beautiful woman in the world, abducted by Paris (Alexander) of Troy against her
+will. This version of the story challenges the traditional view that Helen was responsible for causing the Trojan
+War because she eloped with Paris, leading to the Greeks launching an expedition to reclaim her.
+
+In Quintus Smyrnaeus' Encomium, Helen is portrayed as a sympathetic character who regrets leaving her husband
+Menelaus and home in Sparta. The poet emphasizes that she was coerced into going with Paris, presenting her as a
+tragic figure rather than the seductress of legend.
+
+The "trick" or twist in this encomium lies in the reinterpretation of Helen's character, shifting the focus away
+from blame and onto pity for her unfortunate circumstances. This change in perspective adds depth to the narrative
+and offers a more complex portrayal of the events leading up to the Trojan War.
